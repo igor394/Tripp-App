@@ -1,0 +1,67 @@
+.navbar{
+    padding: 20px;
+}
+.main_logo{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    width: 100%;
+}
+.main_logo img{
+    padding-top: 2px;
+}
+.btn_new_trip{
+    margin-top: 10px;
+    background: #F8D964;
+    border-radius: 10px;
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px 0 20px;
+    color: #000000;
+}
+.btn_new_trip span{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+}
+.link_new_trip{
+ margin-top: 27px;
+}
+.link_new_trip span{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #1C252B;
+}
+.link_future{
+    margin-top: 27px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #97999B;
+}
+.link_list img{
+    margin-right: 10px;
+    width: 16px;
+    height: 16px;
+}
+.burger{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 40px;
+    height: 40px;
+    background: #F1F1F2;
+    border-radius: 10px;
+}
+.header{
+    display: flex;
+}

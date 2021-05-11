@@ -1,0 +1,78 @@
+.wraper{
+    background: #F9F9FA;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+.country{
+    display: flex;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    padding-left: 2px;
+    margin-bottom: 24px;
+}
+.country img{
+    height: 20px;
+    width: 20px;
+}
+.country p{
+    margin-left: 10px;
+}
+.date p{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #63666A;
+    margin-bottom: 4px;
+}
+.date div{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+    margin-bottom: 22px;
+}
+.company p{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #63666A;
+    margin-bottom: 4px;
+}
+.company div{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #0A1E40;
+}
+.company div:last-child{
+    font-weight: 400;
+    margin-bottom: 22px;
+}
+.btn_view{
+    background: #F1F1F2;
+    border-radius: 10px;
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #76787B;
+}
+
